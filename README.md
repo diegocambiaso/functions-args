@@ -1,2 +1,2 @@
-# functions-args
+# Functions *args
 Example of functions argumentes
