@@ -1,2 +1,2 @@
 # functions-args
-Example of functions argmuntes
+Example of functions argumentes
